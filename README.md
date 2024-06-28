@@ -1,16 +1,16 @@
-# calculadora
+# Calculadora con Flutter
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+Este repositorio contiene una calculadora construida utilizando Flutter.
 
-This project is a starting point for a Flutter application.
+## Características
 
-A few resources to get you started if this is your first Flutter project:
+- Interfaz de usuario similar a la de iOS.
+- Operaciones disponibles: + - * / %
+- Admite valores negativos.
+- Diseño adaptable a diferentes dispositivos (responsive design).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologías utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/)
